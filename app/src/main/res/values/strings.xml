@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Numbers Facts</string>
+    <string name="number">Number</string>
+    <string name="fact">Fact</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="get_fact">Get fact</string>
+    <string name="get_fact_about_random_number">Get fact about random number</string>
+    <string name="number_fact">Number Fact</string>
+    <string name="interesting_fact">Interesting Fact</string>
+</resources>
